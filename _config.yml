@@ -1,16 +1,16 @@
 # Site settings
 title: No TV and No Beer
 header-img: img/pineapple-farm.jpg
-email: mikelui@drexel.edu
-copyright_name: Mike Lui
+email: ks499@drexel.edu
+copyright_name: Karthik Sangaiah
 description: "Experiences in the digital world and sometimes the real world, too"
 baseurl: ""
-url: "http://mikelui.io"
+url: "http://ks499.io"
 # twitter_username: SBootstrap
-github_username:  mikelui
+github_username:  ks499
 # facebook_username:  StartBootstrap
-email_username:  mikelui@drexel.edu
-linkedin_username: mikelui
+email_username:  ks499@drexel.edu
+linkedin_username: ksangaiah
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
